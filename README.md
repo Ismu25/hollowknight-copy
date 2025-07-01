@@ -1,1 +1,1 @@
-# hollowknight-copy
+In this repository you´ll find the code for a game I made in C that simulates hollow knight, feel free to use it to create your own games with the groundwork I prepared, but please link back to the original project.
