@@ -1,0 +1,15 @@
+Numero de Animaciones: 0
+
+Numero de Escenarios: 1
+Posicion Inicial: 0,169,376
+Ruta puntos: data/puntuacion5
+
+Nombre de Imagen: texturas/fondos/mapa5/501.bmp
+Numero de bloques: 3
+50,428,944,85,0
+0,0,138,494,0
+906,2,126,499,0
+Numero de bloques de acido: 0
+Numero de conexiones: 0
+Numero de tokens: 0
+Numero de enemigos: 0

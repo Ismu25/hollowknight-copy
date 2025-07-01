@@ -1,0 +1,1 @@
+Here you´ll find the data of each map, including enemies, link to textures, blocks, etc. You´ll also find the score system which can be used to track the score of different players in a map.

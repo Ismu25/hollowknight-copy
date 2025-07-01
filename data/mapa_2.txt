@@ -1,0 +1,226 @@
+Numero de Animaciones: 9
+
+Numero de frames: 5
+Ruta: texturas/vf_0/vf#.bmp
+
+Numero de frames: 6
+Ruta: texturas/vf_0/vfdeath#.bmp
+
+Numero de frames: 5
+Ruta: texturas/vf_2/vf#.bmp
+
+Numero de frames: 6
+Ruta: texturas/vf_2/vfdeath#.bmp
+
+Numero de frames: 4
+Ruta: texturas/dirtcarver/dirtcarver#.bmp
+
+Numero de frames: 7
+Ruta: texturas/dirtcarver/dirtcarverdeath#.bmp
+
+Numero de frames: 4
+Ruta: texturas/ach_1/ach#.bmp
+
+Numero de frames: 6
+Ruta: texturas/ach_1/ach#_death.bmp
+
+Numero de frames: 3
+Ruta: texturas/ach_1/ach#_atk.bmp
+
+Numero de Escenarios: 10
+Posicion Inicial: 0,500,300
+Ruta puntos: data/puntuacion2
+
+Nombre de Imagen: texturas/fondos/mapa2/62.bmp
+Numero de bloques: 13
+726,125,186,56,0
+843,147,178,82,0
+350,415,667,85,0
+454,381,178,46,0
+730,232,288,64,0
+757,290,261,58,0
+800,345,261,50,0
+3,445,400,61,0
+0,231,324,74,0
+614,0,407,125,0
+0,0,470,118,0
+362,270,50,32,1
+628,300,50,25,1
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+1,286,10,155,612,35,1
+0,110,11,115,966,430,9
+Numero de tokens: 1
+518,350,20,20,2
+Numero de enemigos: 3
+R,168,176,40,40,10,0,1,0
+V,112,342,50,50,30,2,3,0
+S,90,181,26,70,20,4,5,0
+
+Nombre de Imagen: texturas/fondos/mapa2/14.bmp
+Numero de bloques: 6
+344,140,99,72,0
+414,76,601,132,0
+5,420,636,90,0
+206,294,114,235,0
+133,200,111,303,0
+0,0,176,514,0
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+711,0,13,72,40,401,0
+642,483,337,19,116,7,2
+Numero de tokens: 0
+Numero de enemigos: 3
+B,621,327,50,50,20,6,7,8
+R,211,80,40,40,10,0,1,0
+R,446,329,40,40,10,0,1,0
+
+Nombre de Imagen: texturas/fondos/mapa2/30.bmp
+Numero de bloques: 2
+0,439,1020,66,0
+0,0,98,501,0
+Numero de bloques de acido: 0
+Numero de conexiones: 1
+1010,162,12,274,43,322,3
+Numero de tokens: 0
+Numero de enemigos: 5
+R,813,316,40,40,10,0,1,0
+R,864,359,40,40,10,0,1,0
+R,934,388,40,40,10,0,1,0
+R,919,320,40,40,10,0,1,0
+R,755,374,40,40,10,0,1,0
+
+Nombre de Imagen: texturas/fondos/mapa2/35.bmp
+Numero de bloques: 4
+0,372,1021,135,0
+3,0,407,222,0
+344,1,354,104,0
+659,0,363,225,0
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+0,206,7,159,965,400,2
+971,229,50,135,36,436,4
+Numero de tokens: 1
+543,337,20,20,1
+Numero de enemigos: 2
+S,854,327,26,70,20,4,5,0
+S,418,327,26,70,20,4,5,0
+
+Nombre de Imagen: texturas/fondos/mapa2/54.bmp
+Numero de bloques: 15
+0,480,265,26,0
+730,293,292,211,0
+280,504,488,90,0
+25,272,148,49,0
+274,259,94,29,0
+447,112,149,50,0
+654,0,113,190,0
+934,135,89,70,0
+969,199,52,86,0
+367,394,90,25,1
+479,310,90,25,1
+178,175,90,25,1
+318,70,90,25,1
+646,357,90,25,1
+819,203,60,25,1
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+2,334,3,144,917,319,3
+931,3,30,115,822,433,5
+Numero de tokens: 1
+504,65,20,20,2
+Numero de enemigos: 4
+B,482,210,50,50,20,6,7,8
+R,69,69,40,40,10,0,1,0
+R,608,432,40,40,10,0,1,0
+R,809,243,40,40,10,0,1,0
+
+Nombre de Imagen: texturas/fondos/mapa2/19.bmp
+Numero de bloques: 12
+0,455,324,52,0
+1,1,198,334,0
+699,156,96,66,0
+795,472,81,32,0
+524,364,83,31,0
+181,2,111,253,0
+293,0,80,90,0
+400,410,60,25,1
+616,270,60,25,1
+880,383,60,25,1
+910,292,60,25,1
+930,185,60,25,1
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+726,496,243,10,837,158,4
+0,376,9,78,976,414,6
+Numero de tokens: 1
+735,115,20,20,1
+Numero de enemigos: 3
+S,79,421,26,70,20,4,5,0
+R,343,293,40,40,10,0,1,0
+R,494,144,40,40,10,0,1,0
+
+Nombre de Imagen: texturas/fondos/mapa2/53.bmp
+Numero de bloques: 2
+2,448,1018,59,0
+0,0,159,320,0
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+1015,310,6,136,25,416,5
+0,347,5,100,948,414,7
+Numero de tokens: 1
+77,418,20,20,2
+Numero de enemigos: 6 
+S,125,411,26,70,20,4,5,0
+S,409,416,26,70,20,4,5,0
+S,656,419,26,70,20,4,5,0
+B,281,261,50,50,20,6,7,8
+B,431,221,50,50,20,6,7,8
+R,478,296,40,40,10,0,1,0
+
+Nombre de Imagen: texturas/fondos/mapa2/52.bmp
+Numero de bloques: 5
+6,442,167,62,0
+0,4,32,500,0
+308,449,711,52,0
+928,321,94,32,0
+0,0,702,322,0
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+1015,353,8,92,18,413,6
+172,494,128,11,530,10,0
+Numero de tokens: 1
+973,293,20,20,1
+Numero de enemigos: 3 
+S,332,404,26,70,20,4,5,0
+S,581,402,26,70,20,4,5,0
+B,857,184,50,50,20,6,7,8
+
+Nombre de Imagen: texturas/fondos/mapa2/32.bmp
+Numero de bloques: 2
+0,438,507,63,0
+384,396,636,107,0
+Numero de bloques de acido: 0
+Numero de conexiones: 1
+1014,144,8,246,28,435,9
+Numero de tokens: 1
+400,360,20,20,1
+Numero de enemigos: 0
+
+Nombre de Imagen: texturas/fondos/mapa2/12.bmp
+Numero de bloques: 2
+0,475,1023,31,0
+152,420,718,91,0
+Numero de bloques de acido: 0
+Numero de conexiones: 2
+0,195,9,278,921,348,8
+1014,89,7,385,75,190,0
+Numero de tokens: 0
+Numero de enemigos: 6
+S,164,379,26,70,20,4,5,0
+S,404,378,26,70,20,4,5,0
+S,602,385,26,70,20,4,5,0
+R,454,274,40,40,10,0,1,0
+R,689,279,40,40,10,0,1,0
+B,434,152,50,50,20,6,7,8
+

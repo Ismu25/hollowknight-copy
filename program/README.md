@@ -1,0 +1,1 @@
+Here you´ll find the .c files that contain the code and the .h headers. The main.c contains the entire game made using the different headers and how to manage them.
